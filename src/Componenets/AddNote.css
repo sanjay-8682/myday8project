@@ -1,0 +1,17 @@
+#Headnot{
+    width: 1000px;
+    border: 1px solid rgb(197, 195, 195);
+    padding: 5px;
+    border-radius: 10px;
+    left: -4px;
+    position: relative;
+}
+#AddNote{
+    color: #203562;
+    font-size: 25px;
+    font-weight: 600;
+}
+#addnote{
+    left: 930px;
+    position: relative;
+}

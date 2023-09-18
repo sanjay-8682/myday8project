@@ -1,0 +1,20 @@
+#cards{
+    left: 100px;
+    width: 300px;
+    position: relative;
+    top: 100px;
+    left: 100px;
+     
+}
+#edited{
+    position: absolute;
+    top: 3px;
+    left: 200px;
+    
+    
+}
+#Delete{
+    position: absolute;
+    top: 3px;
+    left: 240px;
+}
